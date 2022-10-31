@@ -1,5 +1,5 @@
 <html>
-<title>Joe’s café - branch2 menu</title>
+<title>Joe’s cafe - branch2 menu</title>
 <ul>
 <li>signature_latte</li>
 </ul>
